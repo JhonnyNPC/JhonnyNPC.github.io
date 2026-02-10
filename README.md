@@ -8,6 +8,6 @@ Email: **joao.mayer.m.c@gmail.com**\
 Telefone: **61 9 9415-2099**\
 RG: **n**\
 CPF: **71370415150**\
-Trabalho atual/anterior: **Estudante**\
+Trabalho atual/anterior: **Estudante**
 
 ## 
