@@ -1,5 +1,7 @@
 # Currículo
 
+- teste 1
+
 ### Informações Pessoais
 
 Nome: **João Mayer Mendes Cordeiro**\
