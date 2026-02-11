@@ -2,7 +2,7 @@
 
 ![vampeta](https://veja.abril.com.br/wp-content/uploads/2025/07/vampeta-tvpop.jpg?quality=70&strip=info&w=672&h=416&crop=1)
 
-é né? za warudo
+### Za Warudo
 
 ### Informações Pessoais
 
@@ -64,13 +64,13 @@ Estudante interessado em tecnologia, programação e criação de projetos digit
 
 <div style="text-align: center; margin: 20px 0;">
   <button onclick="gerarPDFPerfeito()" 
-          style="background-color: #D32F2F; color: white; padding: 14px 28px; 
+          style="background-color: #000000; color: white; padding: 14px 28px; 
                  border: none; border-radius: 50px; font-size: 18px; cursor: pointer; 
                  box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: 0.2s;"
           class="no-print"
           onmouseover="this.style.backgroundColor='#B71C1C'"
           onmouseout="this.style.backgroundColor='#D32F2F'">
-    🧠 GERAR PDF PERFEITO (sério, agora vai)
+    Download PDF
   </button>
 </div>
 
