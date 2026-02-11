@@ -1,6 +1,6 @@
 # Projects!
 
-Todos os meus projetos em um só lugar, em caso de repositorios dedicados o README.md tanto se encontra aqui quanto no repositorio dedicado do projeto, e aqui você encontrará um link te redirecionando ao repositorio escolhido
+Todos os meus projetos em um só lugar, em caso de repositorios dedicados o README.md tanto se encontra aqui quanto no repositorio dedicado, e aqui você encontrará um link te redirecionando ao repositorio escolhido
 
 ## Índice
 - [Curso de Programação Voltado Para Celular](https://jhonny1307.github.io/#curso-de-programação-voltado-para-celular)
