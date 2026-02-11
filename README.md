@@ -1,6 +1,6 @@
 # Projects!
 
-Todos os meus projetos em um só lugar, em caso de repositorios dedicados o README.md tanto se encontra aqui quanto no repositorio dedicado, e aqui você encontrará um link te redirecionando ao repositorio escolhido
+Todos os meus projetos em um só lugar, em caso de repositorios dedicados o README.md tanto se encontra aqui quanto no repositorio dedicado do projeto, e aqui você encontrará um link te redirecionando ao repositorio escolhido
 
 ## Índice
 - [Curso de Programação Voltado Para Celular](https://jhonny1307.github.io/#curso-de-programação-voltado-para-celular)
@@ -46,7 +46,7 @@ Adiciona um botão a pagina que transforma toda a pagina em pdf, ignora o botão
                  border: none; border-radius: 50px; font-size: 18px; cursor: pointer; 
                  box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: 0.2s;"
           class="no-print"
-          onmouseover="this.style.backgroundColor='#050505'"
+          onmouseover="this.style.backgroundColor='#808080'"
           onmouseout="this.style.backgroundColor='#000000'">
     Download PDF
   </button>
