@@ -29,7 +29,6 @@ Estudante interessado em tecnologia, programação e criação de projetos digit
 - Exploração de ferramentas digitais e criação de conteúdo
 
 
-
 <button onclick="
     if (typeof html2pdf !== 'undefined') {
         gerarPDF();
@@ -39,7 +38,6 @@ Estudante interessado em tecnologia, programação e criação de projetos digit
         script.onload = gerarPDF;
         document.head.appendChild(script);
     }
-
     function gerarPDF() {
         var elemento = document.body; // 👈 troque pelo ID do elemento que deseja (ex: '#conteudo')
         var opt = {
