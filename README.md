@@ -2,6 +2,8 @@
 
 ![vampeta](https://veja.abril.com.br/wp-content/uploads/2025/07/vampeta-tvpop.jpg?quality=70&strip=info&w=672&h=416&crop=1)
 
+é né? za warudo
+
 ### Informações Pessoais
 
 Nome: **João Mayer Mendes Cordeiro**\
