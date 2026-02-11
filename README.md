@@ -8,7 +8,7 @@ Todos os meus projetos em um só lugar, em caso de repositorios dedicados o READ
 
 ## Curso de Programação Voltado Para Celular
 
-- Em Andamento!
+- Em Andamento, Aguarde! [Playlist (Youtube)](https://www.google.com/)
 
 ## MD2PDF
 
@@ -68,7 +68,7 @@ Adiciona um botão a pagina que transforma toda a pagina em pdf, ignora o botão
   }
 </script>
 
-Caso deseje usar este botão em seus projetos, o codigo dele pode ser visto abaixo
+Caso deseje usar este botão em seus projetos, o codigo dele pode ser visto abaixo, basta copiar e colar no arquivo markdown desejado para gerar o botão na posição que o colocou.
 
 ```
 <style>
