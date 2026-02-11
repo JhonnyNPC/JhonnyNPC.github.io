@@ -125,3 +125,16 @@ Caso deseje usar este botão em seus projetos, o codigo dele pode ser visto abai
 </script>
 ```
 
+<script>
+  //page config
+  
+  // mudar idioma
+  document.documentElement.lang = "pt-BR";
+
+  // mudar favicon
+  let link = document.createElement("link");
+  link.rel = "icon";
+  link.type = "image/png";
+  link.href = "icon.png";
+  document.head.appendChild(link);
+</script>
