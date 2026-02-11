@@ -1,6 +1,6 @@
 # Currículo
 
-- teste 1
+- teste 2
 
 ### Informações Pessoais
 
