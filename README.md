@@ -99,8 +99,8 @@ Caso deseje usar este botão em seus projetos, o codigo dele pode ser visto abai
                  border: none; border-radius: 50px; font-size: 18px; cursor: pointer; 
                  box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: 0.2s;"
           class="no-print"
-          onmouseover="this.style.backgroundColor='#B71C1C'"
-          onmouseout="this.style.backgroundColor='#D32F2F'">
+          onmouseover="this.style.backgroundColor='#333333'"
+          onmouseout="this.style.backgroundColor='#000000'">
     Download PDF
   </button>
 </div>
