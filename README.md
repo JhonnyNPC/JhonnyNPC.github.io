@@ -3,12 +3,9 @@
 Todos os meus projetos em um só lugar, em caso de repositorios dedicados o README.md tanto se encontra aqui quanto no repositorio dedicado, e aqui você encontrará um link te redirecionando ao repositorio escolhido
 
 ## Índice
-- [Curso de Programação Voltado Para Celular](https://jhonny1307.github.io/#curso-de-programação-voltado-para-celular)
+
 - [MD2PDF](https://jhonny1307.github.io/#md2pdf)
-
-## Curso de Programação Voltado Para Celular
-
-- Em Andamento, Aguarde! [Playlist (Youtube)](https://www.google.com/)
+- [Curso de Programação Voltado Para Celular](https://jhonny1307.github.io/#curso-de-programação-voltado-para-celular)
 
 ## MD2PDF
 
@@ -127,10 +124,8 @@ Caso deseje usar este botão em seus projetos, o codigo dele pode ser visto abai
 
 <script>
   //page config
-  
   // mudar idioma
   document.documentElement.lang = "pt-BR";
-
   // mudar favicon
   let link = document.createElement("link");
   link.rel = "icon";
@@ -138,3 +133,7 @@ Caso deseje usar este botão em seus projetos, o codigo dele pode ser visto abai
   link.href = "icon.png";
   document.head.appendChild(link);
 </script>
+
+## Curso de Programação Voltado Para Celular
+
+- Em Andamento, Aguarde! [Playlist (Youtube)](https://www.google.com/)
